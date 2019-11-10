@@ -1,2 +1,4 @@
 # hello-world
-resource repository
+
+
+This is a repository for innovative ideas. 
